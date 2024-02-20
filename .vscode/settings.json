@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "sdl.h": "c",
+        "util.h": "c",
+        "type_traits": "c",
+        "poultry.h": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "string.h": "c",
+        "genutil.h": "c"
+    }
+}
